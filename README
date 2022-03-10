@@ -1,1 +1,2 @@
 
+Login con Base de Datos SQL usando Hibernate. Uso librería GSON para obtener provincias españolas desde https://raw.githubusercontent.com/IagoLast/pselect/master/data/provincias.json
